@@ -42,4 +42,13 @@ The columns that the dataset primarily used for feature calculation were: Genre,
     print(recommended_movies)
 
 
+## How the Application Works
+-------------
+1. Scroll and select a previously watched movie from the list.
+2. The system checks and compares all the movies with features similar to those selected.
+3. The system recommends the best 10 movies in relation to what the user selected.
+4. The user can download the list of movies provided.
+5. The user can search for a movie that he or she presumes will be on the list rather than having to scroll to check if the movie is on the list.
+6. The user can expand the list.
+
 Link:
